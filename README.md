@@ -44,4 +44,5 @@ Strong communication skills and ability to work with clients effectively
 Let's connect!
 
 www.linkedin.com/in/umer-k-abdullah
+
 umerabdullahwork1@gmail.com
