@@ -20,6 +20,7 @@ Tools: Git, Trello
 Projects
 
 www.upforza.com
+
 [tradearena.co](https://tradearena.co/)
 
 
