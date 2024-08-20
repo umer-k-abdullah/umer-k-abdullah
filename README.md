@@ -20,7 +20,7 @@ Tools: Git, Trello
 Projects
 
 www.upforza.com
-tradearena.co
+[tradearena.co](https://tradearena.co/)
 
 
 What I can do for you
