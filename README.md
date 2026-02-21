@@ -33,11 +33,5 @@ Laptop: MacBook Pro | Terminal: iTerm2 / zsh
 
 ---
 
-📈 **GitHub Stats & Activity**  
-![Umer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umer-k-abdullah&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umer-k-abdullah&theme=radical&layout=compact)  
-
----
-
 ✍️ **Random Dev Quote**  
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
