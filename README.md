@@ -1,50 +1,43 @@
-Umer Abdullah 
+# Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Umer Abdullah  
 
-Expert Full Stack Developer | MERN Stack
+💫 **About Me**  
+😄 Pronouns: He/His  
+🌱 Currently working on Python automation, data pipelines, MERN stack web apps, and AI-powered SaaS solutions  
+💬 Ask me about Python scripting, data scraping, backend development, MERN stack, Grafana dashboards, or automation workflows  
+📫 How to reach me: Check my social links below  
 
+---
 
-About Me
+🌐 **Socials**  
+[LinkedIn](https://www.linkedin.com/in/umer-k-abdullah) | [Upwork]([https://www.upwork.com/freelancers/~your-profile-link](https://www.upwork.com/freelancers/~01b46b9173a22d54fa?mp_source=share)) | Email: umerabdullahwork1@gmail.com
 
-As a passionate full stack developer, I have honed my skills in MERN stack development, with a strong focus on React JS, Node JS, and Express JS. My expertise extends to database management, REST API integration, and session management using JWT tokens. With experience in Agile web development, I am well-versed in collaborating with clients to deliver projects efficiently.
+---
 
+💻 **Tech Stack**  
+**Languages:** Python, JavaScript (ES6+), SQL  
+**Frontend:** React.js, HTML5, CSS3, Responsive UI  
+**Backend & Automation:** Node.js, Express.js, Python scripts, REST APIs, JWT, RBAC  
+**Databases:** MongoDB, PostgreSQL, MySQL  
+**DevOps & Monitoring:** Docker, CI/CD pipelines, Linux, Grafana dashboards, Metrics & Logging  
+**Other Tools:** OpenAI API, Pandas, NumPy, Workflow Automation, AI-SaaS Features  
 
-Technical Skills
+---
 
-Front End: React JS, Next JS, Tailwind CSS, JavaScript
-Back End: Node JS, Express JS, REST APIs, JWT Token and Session Management
-Database: PostgreSQL, MySQL
-Development Methodologies: Agile Web Development
-Tools: Git, Trello
+👨🏻‍💻 **Laptop & Terminal**  
+Laptop: MacBook Pro | Terminal: iTerm2 / zsh  
 
+---
 
-Projects
+🎵 **Music I Use While Coding**  
+- Spotify / Apple Music / Chillhop Beats  
 
-www.upforza.com
+---
 
-[tradearena.co](https://tradearena.co/)
+📈 **GitHub Stats & Activity**  
+![Umer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&theme=radical&layout=compact)  
 
+---
 
-What I can do for you
-
-Develop scalable and efficient web applications using MERN stack
-Design and implement responsive front-end interfaces using React JS and Tailwind CSS
-Build robust back-end APIs using Node JS and Express JS
-Manage databases with PostgreSQL and MySQL
-Implement authentication and authorization using JWT tokens and session management
-Collaborate with clients to deliver projects using Agile methodologies
-
-
-Why collaborate with me?
-
-Strong expertise in MERN stack development
-Proficient in Agile web development and collaboration tools like Git and Trello
-Excellent problem-solving skills and attention to detail
-Commitment to delivering high-quality solutions that meet client needs
-Strong communication skills and ability to work with clients effectively
-
-
-Let's connect!
-
-www.linkedin.com/in/umer-k-abdullah
-
-umerabdullahwork1@gmail.com
+✍️ **Random Dev Quote**  
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
